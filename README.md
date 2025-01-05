@@ -42,7 +42,7 @@ EatSafe AI leverages the power of **Together Llama 3.2 Vision Model** to provide
 2. **Installation**
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/eatsafe-ai.git
+   git clone https://github.com/sajithlaldev/eatsafe-ai.git
 
    # Navigate to project directory
    cd eatsafe-ai
