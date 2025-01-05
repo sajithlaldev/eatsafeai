@@ -1,7 +1,7 @@
 # 🥗 EatSafe AI
 
 <div align="center">
-  <img src="web/icons/Icon-192.png" alt="EatSafe AI Logo" width="120"/>
+  <h1 style="font-size: 58px; margin: 0;">🥗</h1>
   <h3>Analyze Food Ingredients for Safety and Health</h3>
   <p>A modern Flutter web application powered by AI to help you make informed decisions about your food</p>
   
