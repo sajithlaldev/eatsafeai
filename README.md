@@ -1,10 +1,8 @@
 # 🥗 EatSafe AI
-A Flutter app powered by AI to help you make informed decisions about your food
+Analyze Food Ingredients for Safety and Health
+
 <div align="center">
-  <h1 size="108" style="font-size: 108px; margin: 0;">🥗</h1>
-  <h3>Analyze Food Ingredients for Safety and Health</h3>
   <p>A modern Flutter web application powered by AI to help you make informed decisions about your food</p>
-  
   <p>
     <a href="https://eatsafe-ai.web.app" target="_blank">
       <img src="https://img.shields.io/badge/Demo-Live%20Preview-brightgreen?style=for-the-badge" alt="Live Demo"/>
