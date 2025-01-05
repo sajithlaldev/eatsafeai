@@ -4,8 +4,10 @@ import 'package:http/http.dart' as http;
 import 'package:http_parser/http_parser.dart';
 
 class VisionService {
+  // static const String baseUrl =
+  //     'http://localhost:8000'; // Replace with your actual API endpoint
   static const String baseUrl =
-      'http://localhost:8000'; // Replace with your actual API endpoint
+      'https://asia-south1-chatbot-kerala.cloudfunctions.net/api';
 
   Future<Map<String, dynamic>> analyzeImage(
       Uint8List imageBytes, String query) async {
