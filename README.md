@@ -10,6 +10,8 @@
       <img src="https://img.shields.io/badge/Demo-Live%20Preview-brightgreen?style=for-the-badge" alt="Live Demo"/>
     </a>
   </p>
+  
+  <p>Try it now: <a href="https://eatsafe-ai.web.app" target="_blank">https://eatsafe-ai.web.app</a></p>
 </div>
 
 ## 🧠 AI Powered Analysis
