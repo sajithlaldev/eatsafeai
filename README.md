@@ -1,7 +1,8 @@
-# 🥗 EatSafe AI
+#  EatSafe AI
 Analyze Food Ingredients for Safety and Health
 
 <div align="center">
+  <h1 size="108" style="font-size: 108px; margin: 0;">🥗</h1>
   <p>A modern Flutter web application powered by AI to help you make informed decisions about your food</p>
   <p>
     <a href="https://eatsafe-ai.web.app" target="_blank">
