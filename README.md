@@ -1,4 +1,4 @@
-# eatsageai
+# eatsafeai
 
 A new Flutter project.
 
